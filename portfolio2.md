@@ -10,4 +10,4 @@ layout: page
 
 "IDKrecipes.com"  
 Website by Carlos Cardozo  
-- Art institute / Miami International University of Art & Design - API/AJAX Assignment
+- Art institute / Miami International University of Art & Design - API/AJAX Assignment in collaboration with with Julissa Roa
