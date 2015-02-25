@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here are some testimonials
+title: Hire someone you can trust. Check out these testimonials about me
 ---
 ![quotes](http://e.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2013/09/3018353-poster-1280-quotess3.jpg)
 
