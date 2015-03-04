@@ -5,8 +5,8 @@ layout: page
 ---
 
 <style>
-table {
-  border:2px;
+td {
+  border:2px solid #f1f1f1;
 }
 </style>
 
