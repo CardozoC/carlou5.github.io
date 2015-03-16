@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Brace Yourselves... Google is coming.
+title: Content sits on the Iron Throne.
 ---
 
-![brace yourselves google is coming](http://cdn.meme.am/instances/500x/58142068.jpg)
+![game of google](http://i.imgur.com/7N8Q4pf.jpg)
 
 Search Engine Optimization has definitely evolved from its earlier stages. Google is dedicated to providing the best websites for the queries that their users submit. This means that they are constantly tweaking the algorithm that they use to rank websites. These algorithm changes are great for users because they provide them with great content. For web developers, these algorithms can stir things up quite a bit. That is why people in the web industry always have to keep up with the latest changes to google's algorithms. Here is a few of them and what you can do to optimize your content for maximum google-friendliness.
 
