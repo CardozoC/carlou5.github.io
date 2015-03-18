@@ -65,7 +65,7 @@ Grid systems are used for creating page layouts through a series of rows and col
   <div class="col-md-6">.col-md-6</div>
 </div>
 
-The layout above is created with this code:
+The layout above is created with this code:  
 `<div class="row">  `  
 `  <div class="col-md-1">.col-md-1</div>  `  
 `  <div class="col-md-1">.col-md-1</div>  `
