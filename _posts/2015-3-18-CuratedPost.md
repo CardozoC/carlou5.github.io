@@ -66,30 +66,35 @@ Grid systems are used for creating page layouts through a series of rows and col
 </div>
 
 The layout above is created with this code:
-`<div class="row">  
-  <div class="col-md-1">.col-md-1</div>  
-  <div class="col-md-1">.col-md-1</div>  
-  <div class="col-md-1">.col-md-1</div>  
-  <div class="col-md-1">.col-md-1</div>  
-  <div class="col-md-1">.col-md-1</div>  
-  <div class="col-md-1">.col-md-1</div>  
-  <div class="col-md-1">.col-md-1</div>  
-  <div class="col-md-1">.col-md-1</div>  
-  <div class="col-md-1">.col-md-1</div>  
-  <div class="col-md-1">.col-md-1</div>  
-  <div class="col-md-1">.col-md-1</div>  
-  <div class="col-md-1">.col-md-1</div>  
-</div>  
-<div class="row">  
-  <div class="col-md-8">.col-md-8</div>  
-  <div class="col-md-4">.col-md-4</div>  
-</div>  
-<div class="row">  
-  <div class="col-md-4">.col-md-4</div>  
-  <div class="col-md-4">.col-md-4</div>  
-  <div class="col-md-4">.col-md-4</div>  
-</div>  
-<div class="row">  
-  <div class="col-md-6">.col-md-6</div>  
-  <div class="col-md-6">.col-md-6</div>  
-</div>`
+`<div class="row">  `
+`  <div class="col-md-1">.col-md-1</div>  `
+`  <div class="col-md-1">.col-md-1</div>  `
+`  <div class="col-md-1">.col-md-1</div>  `
+`  <div class="col-md-1">.col-md-1</div>  `
+`  <div class="col-md-1">.col-md-1</div>  `
+`  <div class="col-md-1">.col-md-1</div>  `
+`  <div class="col-md-1">.col-md-1</div>  `
+`  <div class="col-md-1">.col-md-1</div>  `
+`  <div class="col-md-1">.col-md-1</div>  `
+`  <div class="col-md-1">.col-md-1</div>  `
+`  <div class="col-md-1">.col-md-1</div>  `
+`  <div class="col-md-1">.col-md-1</div>  `
+`</div>  `
+`<div class="row">  `
+`  <div class="col-md-8">.col-md-8</div>  `
+`  <div class="col-md-4">.col-md-4</div>  `
+`</div>  `
+`<div class="row">  `
+`  <div class="col-md-4">.col-md-4</div>  `
+`  <div class="col-md-4">.col-md-4</div>  `
+`  <div class="col-md-4">.col-md-4</div>  `
+`</div>  `
+`<div class="row">  `
+`  <div class="col-md-6">.col-md-6</div>  `
+`  <div class="col-md-6">.col-md-6</div>  `
+`</div>`
+
+There's a lot more to bootstrap than just div classes, but I hope that this information helps you create responsive layouts more easily than before. If you're still a bit confused, check out the bootstrap tutorial site for more info.
+http://getbootstrap.com/css/
+
+If you have a better suggestion, please let me know below.Thanks!
