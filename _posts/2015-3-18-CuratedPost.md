@@ -2,6 +2,7 @@
 layout: post
 title: Responsive Layouts intimidating you? Not anymore.
 ---
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
 
 
 Often, we Web Designers hear that our sites should be mobile-friendly or responsive... It can be hard to choose how to make a responsive site with so many options available to achieve this. The next best thing is always changing, so it is a bit intimidating to dive into a new programming language or framework. 
