@@ -15,10 +15,10 @@ There is one CSS Framework that can help you with this mess: Bootstrap. By linki
 
 There are two ways to link the boostrap css file to your site. 
 
-You can download the boostrap css file and host it on your server
+You can download the boostrap css file and host it on your server  
 `<link href="/yourfolder/bootstrap.css" rel="stylesheet">`
 
-Or, you can link directly to a CDN (content delivery network) like the one below. This is the better option because it faster and will likely be cached in your browser from another site that also used it.
+Or, you can link directly to a CDN (content delivery network) like the one below. This is the better option because it faster and will likely be cached in your browser from another site that also used it.  
 `<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">`
 
 ###2. Learn the Bootstrap Basics
@@ -37,20 +37,20 @@ Grid systems are used for creating page layouts through a series of rows and col
 
 ###3. Example
 
-<div class="row">
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-</div>
+<div class="row">  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+</div>  
 <div class="row">
   <div class="col-md-8">.col-md-8</div>
   <div class="col-md-4">.col-md-4</div>
@@ -66,31 +66,30 @@ Grid systems are used for creating page layouts through a series of rows and col
 </div>
 
 The layout above is created with this code:
-`<div class="row">
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-  <div class="col-md-1">.col-md-1</div>
-</div>
-<div class="row">
-  <div class="col-md-8">.col-md-8</div>
-  <div class="col-md-4">.col-md-4</div>
-</div>
-<div class="row">
-  <div class="col-md-4">.col-md-4</div>
-  <div class="col-md-4">.col-md-4</div>
-  <div class="col-md-4">.col-md-4</div>
-</div>
-<div class="row">
-  <div class="col-md-6">.col-md-6</div>
-  <div class="col-md-6">.col-md-6</div>
-</div>
-</code>`
+`<div class="row">  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+  <div class="col-md-1">.col-md-1</div>  
+</div>  
+<div class="row">  
+  <div class="col-md-8">.col-md-8</div>  
+  <div class="col-md-4">.col-md-4</div>  
+</div>  
+<div class="row">  
+  <div class="col-md-4">.col-md-4</div>  
+  <div class="col-md-4">.col-md-4</div>  
+  <div class="col-md-4">.col-md-4</div>  
+</div>  
+<div class="row">  
+  <div class="col-md-6">.col-md-6</div>  
+  <div class="col-md-6">.col-md-6</div>  
+</div>`
