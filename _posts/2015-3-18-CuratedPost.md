@@ -16,10 +16,10 @@ There is one CSS Framework that can help you with this mess: Bootstrap. By linki
 There are two ways to link the boostrap css file to your site. 
 
 You can download the boostrap css file and host it on your server
-<code><link href="/yourfolder/bootstrap.css" rel="stylesheet"></code>
+`<link href="/yourfolder/bootstrap.css" rel="stylesheet">`
 
 Or, you can link directly to a CDN (content delivery network) like the one below. This is the better option because it faster and will likely be cached in your browser from another site that also used it.
-<code><link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"></code>
+`<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">`
 
 ###2. Learn the Bootstrap Basics
 
@@ -66,9 +66,7 @@ Grid systems are used for creating page layouts through a series of rows and col
 </div>
 
 The layout above is created with this code:
-
-<code>
-<div class="row">
+`<div class="row">
   <div class="col-md-1">.col-md-1</div>
   <div class="col-md-1">.col-md-1</div>
   <div class="col-md-1">.col-md-1</div>
@@ -95,4 +93,4 @@ The layout above is created with this code:
   <div class="col-md-6">.col-md-6</div>
   <div class="col-md-6">.col-md-6</div>
 </div>
-</code>
+</code>`
