@@ -3,6 +3,8 @@ layout: post
 title: Top 5 tips for Adwords campaigns
 ---
 
+![adwords](http://www.aspe-roi.com/blog/wp-content/uploads/2014/04/google-adwords-featured.jpg)
+
 1. Have a set goal. It is the most important part of Search Engine Marketing. Your goals should include growing sales, growing brand awareness, or increasing traffic to your site.
 
 You need to know what specific action they are trying to get your target visitor to perform. Is it completing a lead form? Calling an 800 number? Making an online purchase? Before you go live with your campaign, make sure you've identified that goal and know how you'll measure the results.
