@@ -2,6 +2,7 @@
 layout: post
 title: Responsive Layouts intimidating you? Not anymore.
 ---
+![resonsive layout](http://www.elmastudio.de/wp-content/uploads/2011/06/responsive-layout-analyse-08.jpg)
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
 
 
